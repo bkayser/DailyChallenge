@@ -4,20 +4,20 @@ This week you are going to learn some of the most used and most basic unix comma
 
 Remember, google is your friend!  You can find out how to do all of these things using google as well as the `man` command which you'll learn about Friday.
 
-## Thursday June 18
+### Thursday June 18
 
 1. Using the `ssh` command open a remote shell on your server.  
 2. Using the ls and cd commands, list the files and directories in the linux root directory.  
 3. Copy and paste them to an email and send it to me.
 
-## Friday June 19
+### Friday June 19
 
 1. Open a remote shell on your server.  
 2. Using the `man` command, open the unix manual page for the `ls` command.  Find the option to list files, one file per line.  
 3. Use that command to list all the files in your current directory, one per line.  
 4. Copy the contents of the window, including the ls command, and email it to me.
 
-## Saturday June 20
+### Saturday June 20
 
 1. Open a remote shell.
 2. Go to the `paper/plugins` directory.
@@ -26,13 +26,13 @@ Remember, google is your friend!  You can find out how to do all of these things
    * Hint: add the `-h` option to the command to make the output easier to read.
 4. Email me the name and size of the largest file.
 
-## Sunday June 21
+### Sunday June 21
 
 1. Open a remote shell.
 2. Use the `cat` command to print out the contents of the file `paper/run`.
 3. Copy and paste the command and it’s output into an email and send it to me.
 
-## Monday June 22
+### Monday June 22
 
 1. Open a remote shell.
 2. Use the cat command to create a new file called `fun` in your home directory that has one line with the words “Hello World”.
@@ -40,7 +40,7 @@ Remember, google is your friend!  You can find out how to do all of these things
 
 *Hint*: This is easy to do.  The trick is to figure out how.  Google will tell you exactly how to do it if you pick the right search terms.  Remember that this is the linux operating system, but generally people refer to these as “unix” commands because they are universal to all unix systems and it’s derivatives, including linux.
 
-## Tuesday June 23
+### Tuesday June 23
 
 1. Open a remote shell.
 2. cd to the `paper` directory.
