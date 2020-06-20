@@ -14,7 +14,7 @@ You can solve the challenges as far in advance as you like.
 
 # Individual Challenge Lists
 
-Go [here](./elliot.html) for Elliott's challenge.
+Go [here](./elliott.html) for Elliott's challenge.
 
 Go [here](./felix.html) for Felix's challenge.
 
