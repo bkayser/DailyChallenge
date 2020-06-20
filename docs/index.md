@@ -18,6 +18,15 @@ Go [here](./elliott.html) for Elliott's challenge.
 
 Go [here](./felix.html) for Felix's challenge.
 
+# Data Nerd Challenges
+
+These are extended challenges to earn chore passes.
+
+Felix Chore Passes: 2
+
+Elliott Chore Passes: 1
+
+* [Data Nerd Challenge #1](./DataNerdChallenge1.html)
 
 # Helpful Resources
 
