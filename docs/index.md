@@ -24,7 +24,7 @@ These are extended challenges to earn chore passes.
 
 Felix Chore Passes: 2
 
-Elliott Chore Passes: 1
+Elliott Chore Passes: 0
 
 * [Data Nerd Challenge #1](./DataNerdChallenge1.html)
 
