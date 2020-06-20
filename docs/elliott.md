@@ -39,7 +39,7 @@ Now create a new email message to bill@kayser.org and answer the following two q
 1. Open a terminal window.
 2. Type `no`.  What happens?  There is no unix command called `no`.  That would be silly.  So the shell prints out an error.
 3. Type `yes`.  What happens?  Uh-oh!
-4. Type `<ctrl-c>`.  That means, hod down the "control" key and press the letter "C".  What did that do?
+4. Type `<ctrl-c>`.  That means, hold down the "control" key and press the letter "C".  What did that do?
 
 <ctrl-c> is a command that almost always "interrupts" a running command or program that you started in the terminal window.
 
