@@ -41,14 +41,13 @@ Now create a new email message to bill@kayser.org and answer the following two q
 3. Type `yes`.  What happens?  Uh-oh!
 4. Type `<ctrl-c>`.  That means, hold down the "control" key and press the letter "C".  What did that do?
 
-<ctrl-c> is a command that almost always "interrupts" a running command or program that you started in the terminal window.
+'<ctrl-c>' is a command that almost always "interrupts" a running command or program that you started in the terminal window.
 
 Now, create a new email message to bill@kayser.org saying "Happy Fathers Day".  For a bonus, copy and paste a funny image into the email.  Get Felix to help if he's in the mood.
 
 ### Monday, June 21
 
 Review `ls` and `pwd` commands.
-
 
 ### Tuesday, June 22
 
