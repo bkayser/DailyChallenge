@@ -42,8 +42,8 @@ Remember, google is your friend!  You can find out how to do all of these things
 
 ### Tuesday June 23
 
-1. Open a remote shell.
-2. cd to the `paper` directory.
+1. Open a remote shell.  Login to the "minecraft" account.
+2. cd to the `server` directory.
 3. Use the command `ls *.log` to show a list of files that end with `.log`.  The `*` character is referred to as a wildcard and will “match” anything in the file name.  Writing `*.log` tells the `ls` command to restrict it’s output to files that match `*.log`.
 4. Open the unix man page for the command `wc`.  Figure out how to print out the number of lines in a file using the wc command.
 5. Use the `wc` command along with the wildcard expression `*.log` to print the total number of lines in all log files in the `paper` directory.
