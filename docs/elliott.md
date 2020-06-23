@@ -44,3 +44,20 @@ Now create a new email message to bill@kayser.org and answer the following two q
 <ctrl-c> is a command that almost always "interrupts" a running command or program that you started in the terminal window.
 
 Now, create a new email message to bill@kayser.org saying "Happy Fathers Day".  For a bonus, copy and paste a funny image into the email.  Get Felix to help if he's in the mood.
+
+### Monday, June 21
+
+Review `ls` and `pwd` commands.
+
+
+### Tuesday, June 22
+
+1. Open a terminal window.
+2. Using the command `mkdir` create a new directory in your current working directory.  Call this directory "fun".
+3. Go into the new "fun" directory.  Hint: Use the command that you have been using to "change directory".
+4. Type the following command: `ls > foo`.  Normally the `ls` command lists all the files in the directory but this time it printed nothing out!  
+5. Type `ls`.  There should be a new file in the fun directory called `foo`.
+6. What do you think is in the `foo` file?  Let's find out by printing the contents of `foo`.  Type the command `cat foo`.  What do you see?
+7. What do you think the command `ls > foo` does?  Write your answer in an email and send it to me.
+
+If you have any problems or don't have an answer for (7) come find me and I'll help you.
