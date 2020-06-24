@@ -46,7 +46,7 @@ Remember, google is your friend!  You can find out how to do all of these things
 2. cd to the `server` directory.
 3. Use the command `ls *.log` to show a list of files that end with `.log`.  The `*` character is referred to as a wildcard and will “match” anything in the file name.  Writing `*.log` tells the `ls` command to restrict it’s output to files that match `*.log`.
 4. Open the unix man page for the command `wc`.  Figure out how to print out the number of lines in a file using the wc command.
-5. Use the `wc` command along with the wildcard expression `*.log` to print the total number of lines in all log files in the `paper` directory.
+5. Use the `wc` command axblong with the wildcard expression `*.log` to print the total number of lines in all log files in the `paper` directory.
 
 ### Wednesday June 24
 
@@ -54,7 +54,11 @@ Remember, google is your friend!  You can find out how to do all of these things
 2. Type `no`.  What happens?  Nothing, because `no` is not a unix command.  Duh.  That would be silly.
 3. Type `yes`.  What happens?  Now type `ls`.  What's going on?  Chaos.  You must stop chaos.
 4. Figure out how to "interrupt" the `yes` command.  The way to do this is to "send an interrupt signal to the running process".  You can do this with a particular keystroke.
+5. Now type `yes > yes.output`.  You will need to interrupt the command to stop it.
+6. Use `nano` to examine the contents of the file `yes.output`.
+7. Use `wc` to see how big the file `yes.output` is.  How many lines does it have?  
 5. Send me an email or tell me
    a) how you send an interrupt signal, and
    b) what the interrupt signal does exactly
+   c) what the &gt; character did when you used it
 

@@ -60,3 +60,23 @@ Review `ls` and `pwd` commands.
 7. What do you think the command `ls > foo` does?  Write your answer in an email and send it to me.
 
 If you have any problems or don't have an answer for (7) come find me and I'll help you.
+
+### Wednesday, June 23
+
+Today we're going to create a file with some text in it.
+
+Remember, when using any command like `ls`, `mkdir` or `cat` you can quickly remind yourself how these commands work and what the options are in several ways:
+
+* Google the command with a phrase, like "how to create a directory with mkdir"
+* Look at the manual for the command by typing `man` plus the name of the command, like `man mkdir`.
+* Many commands have a quick "help" option you can show by adding `-h` or `--help` at the end of the command.
+
+1. Open a terminal window.
+2. "Change directory" to the `fun` directory.  If there is no `fun` directory, create one using step 2 from Tuesday. 
+3. Type `nano elliott.txt`.
+   * `nano` is a program called a "text editor."  It allows you to edit a document like you do in google docs, but there is no formatting.
+   * You can google "nano" to find out more about how to use it and what commands there are.
+4. In your new document, type "Hello World.  My name is Elliott."
+5. Can you find the command to exit nano?  Make sure it saves what you typed in.
+6. Use the `cat` command to print the contents of the `elliott.txt` file.
+7. Copy and paste the contents of your screen into an email message and send it to me.
