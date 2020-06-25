@@ -18,6 +18,11 @@ Go [here](./elliott.html) for Elliott's challenge.
 
 Go [here](./felix.html) for Felix's challenge.
 
+# Previous Weeks
+
+* [Felix Week1](felix-01.html)
+* [Elliott Week1](elliott-01.html)
+
 # Data Nerd Challenges
 
 These are extended challenges to earn chore passes.
