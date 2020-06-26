@@ -33,9 +33,13 @@ Email me the answers.
 
 Today you will learn about the `|` operator.
 
+In Linux, all programs have input and output.  Input is data that is entered into a program, usually when you type something.  When you type information into a web page, that is input.  Output is what programs print out.  When you type the `ls` command, its output is a list of files in the current directory.  When you type `cat raven.txt` the output of the cat command is the contents of the file `raven.txt.`
+
 1. On the Chromebook open a terminal window.
 2. Type `cat raven.txt`
 3. Now type `cat raven.txt | grep log`.  How is the output different?
 4. Type `cat raven.txt | grep -i quoth`.  What do you think "quoth" means?
 
 The `|` character is a "pipe operator"  It takes the output from one command and feeds it into another command.
+
+For fun, can you use the `|` operator to "pipe" other commands into the `grep` program? (hint: try the `find` command)
