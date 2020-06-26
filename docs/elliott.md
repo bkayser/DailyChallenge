@@ -34,8 +34,8 @@ Email me the answers.
 Today you will learn about the `|` operator.
 
 1. On the Chromebook open a terminal window.
-2. Type `find .`
-3. Now type `find . | grep log`.  How is the output different?
-4. Type `find . | grep fun`.
+2. Type `cat raven.txt`
+3. Now type `cat raven.txt | grep log`.  How is the output different?
+4. Type `cat raven.txt | grep -i quoth`.  What do you think "quoth" means?
 
 The `|` character is a "pipe operator"  It takes the output from one command and feeds it into another command.
