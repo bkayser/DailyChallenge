@@ -28,7 +28,7 @@ For today, you're going to customize ssh to make it simpler to use.
 2. If there is not already a file in that directory called `config` we're going to create one.
 3. Use nano to edit or create the `config` file.
 4. Add the following lines to the config file:
-'''
+```
 Host 192.168.0.2
  User pi
 Host beetgang
