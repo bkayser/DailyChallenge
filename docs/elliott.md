@@ -37,9 +37,30 @@ In Linux, all programs have input and output.  Input is data that is entered int
 
 1. On the Chromebook open a terminal window.
 2. Type `cat raven.txt`
-3. Now type `cat raven.txt | grep log`.  How is the output different?
+3. Now type `cat raven.txt | grep Nevermore`.  How is the output different?
 4. Type `cat raven.txt | grep -i quoth`.  What do you think "quoth" means?
 
 The `|` character is a "pipe operator"  It takes the output from one command and feeds it into another command.
 
 For fun, can you use the `|` operator to "pipe" other commands into the `grep` program? (hint: try the `find` command)
+
+### Sunday, June 28
+
+Today is a test to see what you've learned so far.  Create a new email to me and copy and paste the following questions into the email.  Then type in your answer to each question.
+
+```
+1. What command do you use to see what files are in your current directory?
+
+2. What command will show you the "manual page" for any unix command?
+
+3. What does the command `pwd` do?
+
+4. What does the command `cat` do?
+
+5. What is the output from the command `cat raven.txt | grep -i more`?
+
+6. Give two examples of Linux commands.
+
+7. What does the word "input" mean when we are talking about running a command.
+```
+

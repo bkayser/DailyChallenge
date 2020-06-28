@@ -49,7 +49,25 @@ Today you're going to learn about the linux "apt" package manager.  A package ma
 
 1. Open a remote shell to pi@beetgang.
 2. Type `apt --help`.  This will list the commands.
-3. Using google as well as the apt search command, find a "roguelike" game you can install with apt.  There are a bunch of different ones.  Pick one and install it.
+3. Using google as well as the apt search command, find a "roguelike" game you can install with apt.  There are a bunch of different ones.  Pick one and install it.  Remember to put `sudo` in front of the apt install command so it will execute with the correct permissions.
 4. Type `apt info MYNEWPACKAGE` where `MYNEWPACKAGE` is the apt package you just installed.  Email me the output.
-4. Run your new rogue like game from the command line.  What do you think?  Give me a demo.
+5. Run your new rogue like game from the command line.  What do you think?  Give me a demo.
 
+### Sunday, June 28
+
+Just like every house has an address, every computer on the internet also has an address.  We call this an "IP Address."  In order for your computer to talk to another computer on the internet, you have to know its IP address.  Rather than make you memorize IP addresses the internet allows you to refer to an IP address by name.  So instead of typing `http://172.217.3.174` into a web browser, you can just type `http://google.com`.  This is because of something called DNS.
+
+Today you're going to learn a bit about DNS.  DNS stands for Domain Name System.  It's the system that allows you to reach other computers and servers on the internet using a name instead of an IP address.  It's what allows you to tell people to connect to furrynightmare.com.
+
+1. Login to beetgang as the user pi.
+2. The server doesn't have DNS utilitites on it so we need to install that using the apt get command, so type `sudo apt install dnsutils`.
+3. This installs two new commands, `nslookuop` and `dig`.  Type `nslookup furrynightmare.com`.
+   * This sends a request to a DNS server asking it what the IP address of `furrynightmare.com` is.
+   * In the output, you should see a line that starts with `Server:`.  This is the address of the DNS server you are using.
+   * Below that it might say "Non-authoritative answer" and then list a name and address.  That is the IP address that furrynightmare.com maps to.
+4. What is the IP address of furrynightmare.com?
+5. Let's say you learned that it is `192.56.100.22`.  Now let's do a "reverse lookup" on that IP address.  Type the command `nslookup 192.56.100.22`.  That's going to tell us the name of the computer that has that IP address.  You'd expect it to just tell you "furrynightmare.com" but it doesn't.  Instead it tells you the name of the server on Amazon that I created that is running the reverse proxy.
+
+So what can you do with all this?  Well for one thing, if you see a user's IP address in a log file, you should be able to look up their server.  Maybe you can find out where they are, or at least what country they are from!
+
+Email me the output from #5.
