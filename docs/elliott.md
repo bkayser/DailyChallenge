@@ -1,4 +1,4 @@
-# Elliot's Daily Challenges
+# Elliott's Daily Challenges
 
 So far we have learned about several commands:
 
