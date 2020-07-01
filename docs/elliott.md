@@ -45,7 +45,7 @@ You don't need to email answers.  Find your brother and come discuss your answer
 
 Here is an illustration of how web browsers work.
 
-![How web servers work](how-web-hosting-works.png)
+![How web servers work](images/how-web-hosting-works.png)
 
 This page that you are looking at right now contains data that is stored on a server called "bkayser.github.io".
 
