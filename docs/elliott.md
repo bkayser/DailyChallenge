@@ -41,4 +41,33 @@ your computer through diffent routers.  Once your computer received all of the p
 You don't need to email answers.  Find your brother and come discuss your answers with me.
 
 
+### Wednesday, July 1
+
+Here is an illustration of how web browsers work.
+
+![How web servers work](how-web-hosting-works.png)
+
+This page that you are looking at right now contains data that is stored on a server called "bkayser.github.io".
+
+In Step 2 you sent a "URL" to the web server to tell it what data you wanted.  In Step 3 the computer returned the exact data (web page) you wanted to look at.
+
+Here is what the URL looks like:
+
+    https://bkayser.github.io/DailyChallenge/elliott.html
+
+There are three main parts to a URL:
+
+* The protocol: `https:` tells the computer what language it wants to use to communicate with the server.  It's almost always `http` or `https`.
+* The server: `bkayser.github.io`  This is the name of the computer where a program is running called a web server that will have your data.  This is a "hostname" or "server name" or "server address".  Sometimes you can use an IP address instead of a server name.
+* The web page name: `/DailyChallenge/elliott.html`.  Servers store many pages.  This tells the server exactly what page you want to look at.
+
+Email me the answer to number 5 below.  Then get your brother and come find me and I will ask you questions about the other 4 things you observed.
+
+1. Change the protocol from "https" to something totally random.  What happens?
+2. Change the protocol from "https" to "ftp".  FTP stands for "File Transfer Protocol".  What happens?
+3. Now open up a new web page, anywhere.  Pick your favorite site.  Change the server name to "example.com".  What happens?
+4. Change the server name to "elliottissluggy.com".  What happens?
+5. Open the web page [http://example.com/nothinghere.com](http://example.com/nothinghere.com).  Then open the page [http://furrynightmare.com/nothinghere.com](http://furrynightmare.com/nothinghere.com).  Both pages show "404 errors".  What is a 404 error?  Look it up using google if you need to.
+
+
 
