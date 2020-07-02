@@ -70,4 +70,24 @@ Email me the answer to number 5 below.  Then get your brother and come find me a
 5. Open the web page [http://example.com/nothinghere.com](http://example.com/nothinghere.com).  Then open the page [http://furrynightmare.com/nothinghere.com](http://furrynightmare.com/nothinghere.com).  Both pages show "404 errors".  What is a 404 error?  Look it up using google if you need to.
 
 
+### Thursday, July 2
+
+You don't need to email me.  Come find me when you succeed on the last step, or find me if you need help.
+
+1. Open Chrome on any computer.
+2. Go to the webpage [http://www.yutz-equitation.com/](http://www.yutz-equitation.com).
+3. Look at the web page tab at the top of the window, where it displays the name of the web page.  What is this web page called?
+3. Read everything up to "EXERCISE".  Don't bother with the exercise.
+4. Under the *View* menu open *Developer -> Developer Tools*.
+5. Find the *Elements* tab and select it.
+
+Now you are looking at the special data nerd tool for looking at web pages.  The *Elements* section shows you all the tags on your web page.  But they are all collapsed.  You can expand any element by clicking on the little triangle in front of it.
+
+Now you are going to edit this web page.
+
+1. Expand the `<body>` tag.  Then make sure the `<html>` tag underneath is expanded.
+2. Find the `<title>` tag.  Inside you should see the name of the webpage.
+3. Click on the name of the webpage.  Try changing it.  Type in anything you want and hit return.
+
+Did anything change?  Look at the tab at the top of the browser window that has the page.  What is the name of the page now?
 

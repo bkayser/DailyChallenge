@@ -64,4 +64,18 @@ Email me the answer to number 5 below.  Then get your brother and come find me a
 
 
 
+### Thursday, July 2
+
+1. Open Chrome on any computer.
+2. Go to the webpage [http://www.yutz-equitation.com/](http://www.yutz-equitation.com).
+3. Look at the web page tab at the top of the window, where it displays the name of the web page.  What is this web page called?
+3. Read everything up to "EXERCISE".  Don't bother with the exercise.
+4. Under the *View* menu open *Developer -> Developer Tools*.
+5. Find the *Elements* tab and select it.
+
+Now make the following changes to the web page and send me a screenshot or show me the changes.
+
+1. Change the background color to yellow.  You'll need to figure out the RGB values for yellow and change the appropriate attribute in the elements section.
+2. Change the title of the page to "Felix".
+
 
