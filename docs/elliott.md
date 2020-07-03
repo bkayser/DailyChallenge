@@ -91,3 +91,16 @@ Now you are going to edit this web page.
 
 Did anything change?  Look at the tab at the top of the browser window that has the page.  What is the name of the page now?
 
+### Friday, July 3
+
+Today you are going to write your first web page.
+
+1. Have a look at [this webpage](sample.html).
+2. Now you are going to write your own page.  Go to the page [https://htmlcodeeditor.com/](https://htmlcodeeditor.com/).
+3. Erase what's in the editor on the left side and type in your own HTML.  See how what you type on the left appears on the right.
+4. See if you can figure out exactly what to type so that your preview pane on the right looks like this:
+
+![sample](images/samplepage.jpg)
+
+Show it to me when you are done.
+
