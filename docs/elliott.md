@@ -104,3 +104,19 @@ Today you are going to write your first web page.
 
 Show it to me when you are done.
 
+### Saturday, July 4
+
+![Fireworks](images/fireworks.jpeg)
+
+### Sunday, July 5
+
+Today you are going to edit another web page.  To do this one though, you are going to have to learn how to use the `<OL>` (ordered list) tag and the `<UL>` (unnumbered list) tag.
+
+1. Search google for examples of using those tags.  Try searching "HTML OL TAG" and "HTML UL TAG".  Study the examples closely to see how to create bullet and numbered lists.
+2. Go to [https://htmlcodeeditor.com/](https://htmlcodeeditor.com/) and create a web page that looks like the one below.  Note that you can change the contents or the list items but you must have a numbered list and a bullet list.
+
+![Example](images/tasks.png)
+
+Take a picture of the web page including the left side and text or email me.
+
+**If you get stuck, ask Felix for help!**
