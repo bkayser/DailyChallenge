@@ -14,14 +14,17 @@ You can solve the challenges as far in advance as you like.
 
 # Individual Challenge Lists
 
-* [Elliott's Latest Challenge](./elliott.html)
+### [Elliott's Latest Challenge](./elliott.html)
 
-* [Felix's Latest Challenge](./felix.html)
+### [Felix's Latest Challenge](./felix.html)
 
 # Previous Weeks
 
+* [Felix Week 3](felix-03.html)
 * [Felix Week 2](felix-02.html)
 * [Felix Week 1](felix-01.html)
+
+* [Elliott Week 3](elliott-03.html)
 * [Elliott Week 2](elliott-02.html)
 * [Elliott Week 1](elliott-01.html)
 
