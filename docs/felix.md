@@ -11,3 +11,7 @@ Instructions are all on the course site.
 1. Get your laptop and go to the Bonus Room.
 2. I'll queue up the video on the TV and we can work through the installation instructions together.  I'll make sure my laptop is up to date.
 
+### Tuesday, July 7
+
+* Finish installing Visual Studio
+* Start next chapter
