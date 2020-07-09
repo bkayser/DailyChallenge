@@ -89,3 +89,36 @@ Ryyvbgg xabjf gung ebgvk fuvsgf rnpu yrggre guvegrra cynprf.
 
 Send me your answers or come find me for help!
 
+### Thursday, July 9
+
+Today I'm going to show you how to create a file using the output of multiple commands.
+
+You are also going to learn a new unix command, `fortune`.  Aren't you fortunate?
+
+![fortune](https://www.horoscope.com/images-US/games/game-fortune-cookie-1.png)
+
+We'll use two new operators: `>` and `>>`.
+
+The `>` operator is what you put after a unix command to tell it to "send the output to a file".
+
+1. Open a terminal on your Chromebook
+2. `cd` to the `fun` directory.
+3. Type `fortune`.  What did it tell you?  Do it again, a couple of times.
+4. Now type `fortune > fortunes.txt`.  It didn't print anything!  What did it do?
+5. Type `cat fortunes.txt`.  This shows you the output from the `fortune` command you typed in step 4!
+6. Repeat steps 4 and 5 a couple of times.  Notice that there is a new fortune each time.
+7. Now let's see if we can make a file with several fortunes in it.  Type the following commands.  Note these are only different because they use the `>>` instead of the `>` operator.  After each one, look at the `fortunes.txt` file (using the `cat` command).
+    ```bash
+    fortune >> fortunes.txt
+    fortune >> fortunes.txt
+    fortune >> fortunes.txt
+    ```
+8. Now can you tell me the difference between `>>` and `>`?
+9. Now try these commands for fun.
+    ```bash
+    date > diary.txt
+    fortune >> diary.txt
+    pwd >> diary.txt
+    echo "I am Iron Elliott" >> diary.txt
+    ```
+10. Use cat to print out the contents of the `diary.txt` file and then email it to me.
