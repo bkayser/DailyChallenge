@@ -122,3 +122,34 @@ The `>` operator is what you put after a unix command to tell it to "send the ou
     echo "I am Iron Elliott" >> diary.txt
     ```
 10. Use cat to print out the contents of the `diary.txt` file and then email it to me.
+
+
+### Friday, July 11
+
+In unix, we call the different symbols `<`, `>`, `>>` and `|` "operators".
+
+Today we're going to work more with the `|` operator.  This is called "the pipe operator".  The pipe operator takes output from one command and sends it directly into another command as input.  So data goes through the "pipe" that connects two commands, or programs.
+
+![pipe](images/pipe.png)
+
+You don't need to send me your answers for 1-7.  Just make sure you try each step.
+
+1. Open a terminal window on your Chromebook.
+2. There is a file `raven.txt` in your current (home) directory.  Move this into the `fun` directory by typing the command `mv raven.txt fun`.  That means _move the raven.txt file into the fun directory_.
+3. `cd` to the `fun` directory then type `ls`.  You should see the raven.txt file and the quotes.txt file.
+4. Type `tail -2 raven.txt`.  You should see the last two lines of the poem "The Raven."
+5. Type `tail -2 raven.txt | rev`.  Notice what's different?
+6. Type `cat quotes.txt | sort | tail -20 | head -1`
+7. Type `cat raven.txt | grep Lenore`.
+
+These two commands do the same thing.  Try it by typing them both in:
+* `grep Lenore raven.txt`
+* `cat raven.txt | grep Lenore`
+
+Now that you know what the pipe operator does try the following challenges and send me the output in an email.  You can only use the `|` operator, not the `>` or `>>` operators.
+1. Print out each line of raven.txt that has the word "Nevermore" and reverse the letters.
+2. Print out a fortune encoded using the `radix` rot13 encoding.  Hint: you already learned the command that prints out a fortune.
+3. Sort the file `quotes.txt`, select lines with the word "your", reverse them, then encode them with `radix`.
+4. What percent of lines in "The Raven" have the word "Lenore" in them?  Show the commands you used.
+
+Bonus Challenge: Use as many commands as you can in a single line using the `|` operator.  You are not allowed to use a command more than once, and you have to print something out.  Don't show me the command, just the output.  See if I can guess what commands you used!
