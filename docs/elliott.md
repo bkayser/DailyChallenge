@@ -153,3 +153,29 @@ Now that you know what the pipe operator does try the following challenges and s
 4. What percent of lines in "The Raven" have the word "Lenore" in them?  Show the commands you used.
 
 Bonus Challenge: Use as many commands as you can in a single line using the `|` operator.  You are not allowed to use a command more than once, and you have to print something out.  Don't show me the command, just the output.  See if I can guess what commands you used!
+
+### Saturday, July 12
+
+
+The `echo` command is used to print out text.  You tell echo what to print and it prints it.  
+
+1. Open a terminal window on your Chromebook.
+2. `cd` to the `fun` directory.
+3. Type `echo "My name is Elliott"`
+4. Type `echo Today is Saturday`
+5. Type these lines.  Notice that it doesn't print anything out until you type the last line.
+```
+echo "Today is Saturday.
+The weather is warm.
+I will play basketball."
+```
+6. Now type `echo "Today is Saturday" > diary.txt` Why didn't it print anything?
+7. Type `echo "Today is Saturday > diary.txt"`  What happened?  Why is this different?
+8. Type the following lines:
+```
+echo "I read 30 minutes." >> diary.txt
+echo "I played basketball." >> diary.txt
+echo "I watched Sponge Bob on TV." >> diary.txt
+```
+9. Type `cat diary.txt` and send me the output.
+
