@@ -24,6 +24,7 @@ You can solve the challenges as far in advance as you like.
 * [Felix Week 2](felix-02.html)
 * [Felix Week 1](felix-01.html)
 
+* [Elliott Week 4](elliott-04.html)
 * [Elliott Week 3](elliott-03.html)
 * [Elliott Week 2](elliott-02.html)
 * [Elliott Week 1](elliott-01.html)
