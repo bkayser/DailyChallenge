@@ -33,3 +33,39 @@ The less command does many other things.  To see all the things you can do with 
 
 Why is the program to page through text called "less"?  It's because it's based on an older command called "more".  The "more" command also paged through text but it could only go forward and not backward, and it didn't have all the fancy commands that "less" has.  Try it!  Type "more" instead of "less".
 
+### Tuesday, July 14
+
+![you did it](images/youdidit.png)
+
+Congratulations, you've gone through and learned nearly all of the
+basic unix commands.  You are on your way to becoming a true data
+nerd!  The next step is to learn how to program computers.  Once you
+know how to write a program, you can combine that with your unix
+skills to build applications that actually do things like solving
+complicated science problems or help people get their work done.
+
+### Wednesday, July 15
+
+Now we're going to focus on programming.  What type of programming are you interested in?
+
+Watch these two videos and tell me which of these sound like courses you would like to pursue as part of your daily challenge.
+
+
+
+1. Open a web browser on your office iMac and go to this page: [https://www.khanacademy.org](https://www.khanacademy.org).
+2. Hit the "Log in" link and log in with the user name babyslug.  If you don't remember the password, think about your nickname + your favorite number.
+3. Watch each of these videos:
+   * https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
+   * https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
+   * https://www.khanacademy.org/computing/computer-programming/html-css
+
+Which of these topics sound the most interesting?
+
+* Database Programming with SQL
+* Programming with Javascript
+* Building Web Pages with HTML
+
+Come and discuss with me.
+
+
+
