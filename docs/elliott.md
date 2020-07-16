@@ -51,7 +51,6 @@ Now we're going to focus on programming.  What type of programming are you inter
 Watch these two videos and tell me which of these sound like courses you would like to pursue as part of your daily challenge.
 
 
-
 1. Open a web browser on your office iMac and go to this page: [https://www.khanacademy.org](https://www.khanacademy.org).
 2. Hit the "Log in" link and log in with the user name babyslug.  If you don't remember the password, think about your nickname + your favorite number.
 3. Watch each of these videos:
@@ -67,5 +66,22 @@ Which of these topics sound the most interesting?
 
 Come and discuss with me.
 
+
+
+### Thursday, July 16
+
+Today you're going to start the Khan Academy course on programming with Javascript.
+
+It's best to do this on the Mac in your office, but if it's after 2:00 pm you'll have to use your Chromebook.
+
+1. Open up the page to see the menu of lessons on the Javascript course:  https://www.khanacademy.org/computing/computer-programming/programming
+2. Add this page to your bookmarks since you'll come here often.
+3. Click on the lessons Learning Programming with Khan Academy and read the article.
+4. Start the section on Drawing Basics by doing the lesson on Making Drawings with Code.
+5. You can stop there or keep going and do more lessons.
+
+Here are the lessons assigned today:
+
+![lessons](images/khan1.png)
 
 
