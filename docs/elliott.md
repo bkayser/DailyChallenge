@@ -84,4 +84,17 @@ Here are the lessons assigned today:
 
 ![lessons](images/khan1.png)
 
+### Friday, July 17
+
+Today I want you to finish the lesson on "Drawing Basics".  There are two challenges, a tip, and a video.
+
+![lesson](images/drawingbasics.png)
+
+You already watched the first video that talked about functions and parameters.  Those are two of the most important concepts in programming!  If you are confused about what they are, go back and watch the first video again.
+
+1. Make sure you are logged in to "babyslug"
+2. Go to [the Drawing Basics](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code) lesson.
+3. While completing the lesson, create your own "spin-off".  This is how you store your own work.  Come find me and I'll help you with this if you are stuck or confused.
+4. Complete all the parts of this lesson and show me what you did for the challenge.
+
 
